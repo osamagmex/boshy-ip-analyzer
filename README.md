@@ -21,7 +21,7 @@ Boshy IP Analyzer is a powerful Bash-based tool designed for analyzing IP addres
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/osamagmex/boshy.git
+   git clone https://github.com/osamagmex/boshy-ip-analyzer.git
 
    cd boshy
    ```
