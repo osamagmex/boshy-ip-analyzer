@@ -23,7 +23,6 @@ Boshy IP Analyzer is a powerful Bash-based tool designed for analyzing IP addres
    ```bash
    git clone https://github.com/osamagmex/boshy-ip-analyzer.git
 
-   cd boshy
    ```
 2. Ensure the script is executable:
    ```bash
