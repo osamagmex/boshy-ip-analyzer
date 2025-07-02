@@ -78,3 +78,4 @@ For questions or feedback, reach out via:
 - GitHub: [osamagmex](https://github.com/osamagmex)
 - Discord: osamagmex
 
+please note this is just the core proccess and will be upgraded in the future
